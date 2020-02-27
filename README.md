@@ -24,4 +24,5 @@ me - montenegro
 
 
 cy - cyprus
-http://www.posta.gov.ct.tr/Portals/117/KKTC%20Posta%20Kodlar%C4%B1.pdf
+https://www.cypruspost.post/uploads/postal-codes/f3b887308f.xlsx
+
