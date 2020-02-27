@@ -1,5 +1,7 @@
 # postalcodes
 
+postalcodes for every country in europe
+
 wget --no-parent -r http://download.geonames.org/export/zip/
 
 # missing some EU countries #
